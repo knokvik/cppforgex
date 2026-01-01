@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/nirajrajendranaphade/Programming/cmake_tut/bench/build/cmake_install.cmake",
+		"/Users/nirajrajendranaphade/Programming/cmake_tut/bench/build/google-benchmark/cmake_install.cmake",
+		"/Users/nirajrajendranaphade/Programming/cmake_tut/bench/build/google-benchmark/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

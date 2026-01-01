@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.10)
+project(AsioNetworking CXX)
+set(CMAKE_CXX_STANDARD)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+add_compile_definitions(ASIO_STANDALONE)
+include_directories("${asio}")
