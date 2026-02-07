@@ -1272,3 +1272,4 @@ BOOST_ASIO_TEST_SUITE
 
   BOOST_ASIO_TEST_CASE(test_vars)
 )
+// Updated documentation
