@@ -37,3 +37,4 @@ int main()
   static_assert(boost::asio::can_query<object, prop>::value, "");
   static_assert(boost::asio::can_query<const object, prop>::value, "");
 }
+// Refactored variables
