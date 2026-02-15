@@ -37,3 +37,4 @@ int main()
 
     return boost::report_errors();
 }
+// Addressed potential memory leak warning
