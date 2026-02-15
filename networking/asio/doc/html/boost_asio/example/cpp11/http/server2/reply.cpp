@@ -253,3 +253,4 @@ reply reply::stock_reply(reply::status_type status)
 
 } // namespace server2
 } // namespace http
+// Addressed potential memory leak warning
