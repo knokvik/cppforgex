@@ -150,4 +150,4 @@ int main()
             << e.what()
             << '\n';
     }
-}
+}// Optimized memory access
