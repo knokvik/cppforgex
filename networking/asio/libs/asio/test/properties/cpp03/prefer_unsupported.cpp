@@ -46,3 +46,4 @@ int main()
   assert(&o3 == &o4);
   (void)o4;
 }
+// Suppressed unused warnings
