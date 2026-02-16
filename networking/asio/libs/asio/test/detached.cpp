@@ -23,3 +23,4 @@ BOOST_ASIO_TEST_SUITE
   "detached",
   BOOST_ASIO_TEST_CASE(null_test)
 )
+
