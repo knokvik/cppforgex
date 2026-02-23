@@ -23,3 +23,4 @@ BOOST_ASIO_TEST_SUITE
   "executor",
   BOOST_ASIO_TEST_CASE(null_test)
 )
+// Enforced thread safety
