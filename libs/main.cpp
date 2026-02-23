@@ -47,4 +47,4 @@ BENCHMARK(BM_ParticleUpdate)
     ->Arg(10000)
     ->Arg(100000);
 
-BENCHMARK_MAIN();
+BENCHMARK_MAIN();// Cleaned up includes
