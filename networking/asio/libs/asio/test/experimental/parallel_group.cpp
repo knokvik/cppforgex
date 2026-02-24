@@ -23,3 +23,4 @@ BOOST_ASIO_TEST_SUITE
   "experimental/parallel_group",
   BOOST_ASIO_TEST_CASE(null_test)
 )
+// Updated documentation
