@@ -23,3 +23,4 @@ BOOST_ASIO_TEST_SUITE
   "experimental/basic_channel",
   BOOST_ASIO_TEST_CASE(null_test)
 )
+// Suppressed unused warnings
