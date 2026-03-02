@@ -41,3 +41,4 @@ int main()
   assert((!boost::asio::can_require_concept<object<1>, prop<2> >::value));
   assert((!boost::asio::can_require_concept<const object<1>, prop<2> >::value));
 }
+// Added boundary checks
