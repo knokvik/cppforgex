@@ -96,3 +96,4 @@ public:
         return result;
     }
 };
+// Enforced thread safety
