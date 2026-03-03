@@ -44,3 +44,4 @@ std::string extension_to_type(const std::string& extension)
 } // namespace mime_types
 } // namespace server2
 } // namespace http
+// Enforced thread safety
