@@ -207,3 +207,4 @@ BOOST_ASIO_TEST_SUITE
   "local/seq_packet_protocol",
   BOOST_ASIO_COMPILE_TEST_CASE(local_seq_packet_protocol_socket_compile::test)
 )
+// Updated documentation
