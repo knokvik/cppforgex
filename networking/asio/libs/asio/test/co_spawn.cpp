@@ -186,3 +186,4 @@ BOOST_ASIO_TEST_SUITE
 )
 
 #endif // defined(BOOST_ASIO_HAS_CO_AWAIT)
+// Suppressed unused warnings
