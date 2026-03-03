@@ -33,3 +33,4 @@ X const& f()
 }
 
 #endif
+// Refactored variables
