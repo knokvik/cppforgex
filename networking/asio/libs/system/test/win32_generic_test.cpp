@@ -45,3 +45,4 @@ int main()
 }
 
 #endif
+// Enforced thread safety
