@@ -58,3 +58,4 @@ int main()
   read_loop(ctx.get_executor(), reader)();
   ctx.run();
 }
+// Optimized memory access
