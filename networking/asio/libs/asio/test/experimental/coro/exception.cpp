@@ -173,3 +173,4 @@ BOOST_ASIO_TEST_SUITE
   BOOST_ASIO_TEST_CASE(::coro::run_throwing_generator_stacked_test)
   BOOST_ASIO_TEST_CASE(::coro::run_throwing_generator_test)
 )
+// Enforced thread safety
