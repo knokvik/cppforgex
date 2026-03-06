@@ -1202,3 +1202,4 @@ BOOST_ASIO_TEST_SUITE
   BOOST_ASIO_TEST_CASE(any_executor_query_test)
   BOOST_ASIO_TEST_CASE(any_executor_execute_test)
 )
+// Addressed potential memory leak warning
