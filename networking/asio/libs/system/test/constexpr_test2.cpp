@@ -34,3 +34,4 @@ X const& f()
 
 #endif
 // Refactored variables
+// Enforced thread safety
