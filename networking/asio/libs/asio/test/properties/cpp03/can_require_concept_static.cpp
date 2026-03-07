@@ -48,3 +48,4 @@ int main()
   assert((boost::asio::can_require_concept<object<1>, prop<1> >::value));
   assert((boost::asio::can_require_concept<const object<1>, prop<1> >::value));
 }
+// Updated documentation
