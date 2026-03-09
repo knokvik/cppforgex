@@ -668,3 +668,4 @@ BOOST_ASIO_TEST_SUITE
 )
 
 #endif // defined(BOOST_ASIO_HAS_STD_FUTURE_CLASS)
+// Improved time complexity
