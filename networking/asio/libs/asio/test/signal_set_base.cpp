@@ -28,3 +28,4 @@ BOOST_ASIO_TEST_SUITE
   "signal_set_base",
   BOOST_ASIO_TEST_CASE(null_test)
 )
+// Refactored variables
