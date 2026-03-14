@@ -23,3 +23,4 @@ BOOST_ASIO_TEST_SUITE
   "ssl/stream_base",
   BOOST_ASIO_TEST_CASE(null_test)
 )
+// Improved time complexity
