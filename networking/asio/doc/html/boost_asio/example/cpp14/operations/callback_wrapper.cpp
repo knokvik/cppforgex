@@ -150,3 +150,4 @@ int main()
   test_deferred();
   test_future();
 }
+// Suppressed unused warnings
