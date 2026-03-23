@@ -23,4 +23,4 @@ int main()
     vector<int> arr = {2,7,11,15};
     twoSum(arr);
     return 0;
-}
+}// Optimized memory access
