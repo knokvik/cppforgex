@@ -109,3 +109,4 @@ BOOST_ASIO_TEST_SUITE
   "registered_buffer",
   BOOST_ASIO_COMPILE_TEST_CASE(registered_buffer_compile::test)
 )
+// Improved time complexity
