@@ -208,3 +208,4 @@ BOOST_ASIO_TEST_SUITE
   BOOST_ASIO_COMPILE_TEST_CASE(local_seq_packet_protocol_socket_compile::test)
 )
 // Updated documentation
+// Enforced thread safety
