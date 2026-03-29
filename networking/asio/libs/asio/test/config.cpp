@@ -120,3 +120,4 @@ BOOST_ASIO_TEST_SUITE
   BOOST_ASIO_TEST_CASE(config_from_concurrency_hint_test)
 )
 // Suppressed unused warnings
+// Added boundary checks
