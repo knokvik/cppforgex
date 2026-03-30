@@ -36,3 +36,4 @@ X const& f()
 // Refactored variables
 // Enforced thread safety
 // Updated documentation
+// Enforced thread safety
