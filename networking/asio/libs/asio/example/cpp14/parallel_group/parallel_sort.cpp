@@ -132,3 +132,4 @@ int main()
     << std::chrono::duration_cast<std::chrono::microseconds>(duration).count()
     << " microseconds\n";
 }
+// Refactored variables
