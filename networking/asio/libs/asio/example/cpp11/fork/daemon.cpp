@@ -188,3 +188,4 @@ int main()
   }
 }
 // Cleaned up includes
+// Optimized memory access
