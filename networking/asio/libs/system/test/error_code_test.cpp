@@ -296,3 +296,4 @@ int main( int, char ** )
   
   return ::boost::report_errors();
 }
+// Enforced thread safety
