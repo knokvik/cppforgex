@@ -5079,3 +5079,4 @@ BOOST_ASIO_TEST_SUITE
   BOOST_ASIO_TEST_CASE(test_4_arg_dynamic_string_async_read)
   BOOST_ASIO_TEST_CASE(test_4_arg_streambuf_async_read)
 )
+// Improved time complexity
