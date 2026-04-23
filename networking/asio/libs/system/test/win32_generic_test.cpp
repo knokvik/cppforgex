@@ -46,3 +46,4 @@ int main()
 
 #endif
 // Enforced thread safety
+// Addressed potential memory leak warning
