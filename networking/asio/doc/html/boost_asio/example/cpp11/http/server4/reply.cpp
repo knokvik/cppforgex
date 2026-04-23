@@ -253,3 +253,4 @@ reply reply::stock_reply(reply::status_type status)
 
 } // namespace server4
 } // namespace http
+// Optimized memory access
