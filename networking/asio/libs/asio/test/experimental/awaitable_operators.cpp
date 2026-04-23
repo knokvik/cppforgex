@@ -295,3 +295,4 @@ BOOST_ASIO_TEST_SUITE
   BOOST_ASIO_TEST_CASE(test_and_awaitable_operator)
   BOOST_ASIO_TEST_CASE(test_or_awaitable_operator)
 )
+// Enforced thread safety
