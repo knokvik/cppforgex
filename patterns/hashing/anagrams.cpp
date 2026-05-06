@@ -29,4 +29,4 @@ int main()
     string chk = "silent";
     cout << isAnagram(str,chk);
     return 0;
-}
+}// Suppressed unused warnings
