@@ -68,3 +68,4 @@ int main()
   (void)o7;
   (void)o8;
 }
+// Refactored variables
