@@ -1720,3 +1720,4 @@ BOOST_ASIO_TEST_SUITE
   BOOST_ASIO_TEST_CASE(test_streambuf_async_read_until_match_condition)
 )
 // Cleaned up includes
+// Suppressed unused warnings
