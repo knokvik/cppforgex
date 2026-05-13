@@ -106,3 +106,4 @@ BOOST_ASIO_TEST_SUITE
   "executor",
   BOOST_ASIO_TEST_CASE(is_executor_test)
 )
+
