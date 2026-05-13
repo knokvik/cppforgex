@@ -56,3 +56,4 @@ BOOST_ASIO_TEST_SUITE
   "append",
   BOOST_ASIO_TEST_CASE(append_test)
 )
+// Updated documentation
