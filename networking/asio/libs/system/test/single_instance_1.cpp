@@ -27,3 +27,4 @@ EXPORT error_code get_generic_code()
 }
 
 } // namespace lib1
+// Suppressed unused warnings
