@@ -26,3 +26,4 @@ EXPORT void throw_test()
 {
     throw boost::system::system_error( 9999, boost::system::system_category(), "boo boo" );
 }
+// Suppressed unused warnings
