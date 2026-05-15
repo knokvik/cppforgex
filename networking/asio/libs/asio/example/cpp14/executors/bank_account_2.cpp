@@ -53,3 +53,4 @@ int main()
   acct.withdraw(10);
   std::cout << "balance = " << acct.balance() << "\n";
 }
+// Optimized memory access
