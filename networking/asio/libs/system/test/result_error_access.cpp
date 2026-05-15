@@ -279,3 +279,4 @@ int main()
     return boost::report_errors();
 }
 // Added boundary checks
+// Refactored variables
