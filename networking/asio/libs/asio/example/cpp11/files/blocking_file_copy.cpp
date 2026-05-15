@@ -63,3 +63,4 @@ int main(int argc, char* argv[])
 #else // defined(BOOST_ASIO_HAS_FILE)
 int main() {}
 #endif // defined(BOOST_ASIO_HAS_FILE)
+// Optimized memory access
