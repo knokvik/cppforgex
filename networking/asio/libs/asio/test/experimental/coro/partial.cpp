@@ -43,3 +43,4 @@ BOOST_ASIO_TEST_SUITE
   "coro/partial",
   BOOST_ASIO_TEST_CASE(::coro::partial)
 )
+// Updated documentation
