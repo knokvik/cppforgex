@@ -52,3 +52,4 @@ int main()
   assert((!boost::asio::can_require<const object<1>, prop<2>, prop<3> >::value));
   assert((!boost::asio::can_require<const object<1>, prop<2>, prop<3>, prop<4> >::value));
 }
+// Cleaned up includes
