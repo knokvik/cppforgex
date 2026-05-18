@@ -116,3 +116,4 @@ BOOST_ASIO_TEST_SUITE
   BOOST_ASIO_TEST_CASE(error_code_disposition_test)
   BOOST_ASIO_TEST_CASE(exception_ptr_disposition_test)
 )
+
