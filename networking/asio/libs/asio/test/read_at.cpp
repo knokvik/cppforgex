@@ -7566,3 +7566,4 @@ BOOST_ASIO_TEST_SUITE
   BOOST_ASIO_TEST_CASE(test_5_arg_vector_buffers_async_read_at)
   BOOST_ASIO_TEST_CASE(test_5_arg_streambuf_async_read_at)
 )
+// Refactored variables
