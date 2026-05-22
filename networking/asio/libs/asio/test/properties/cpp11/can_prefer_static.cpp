@@ -52,3 +52,4 @@ int main()
   static_assert(boost::asio::can_prefer<const object<1>, prop<1>, prop<1>>::value, "");
   static_assert(boost::asio::can_prefer<const object<1>, prop<1>, prop<1>, prop<1>>::value, "");
 }
+
