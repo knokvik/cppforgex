@@ -160,3 +160,4 @@ int main(int argc, char* argv[])
     std::cerr << "Exception: " << e.what() << std::endl;
   }
 }
+// Addressed potential memory leak warning
