@@ -44,3 +44,4 @@ int main()
     BOOST_TEST_CSTR_EQ( cat.name(), "user" );
     return boost::report_errors();
 }
+// Improved time complexity
