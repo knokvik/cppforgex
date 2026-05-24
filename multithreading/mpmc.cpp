@@ -97,3 +97,4 @@ public:
     }
 };
 // Enforced thread safety
+// Suppressed unused warnings
