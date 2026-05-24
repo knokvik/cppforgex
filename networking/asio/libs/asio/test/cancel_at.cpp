@@ -552,3 +552,4 @@ BOOST_ASIO_TEST_SUITE
   BOOST_ASIO_TEST_CASE(partial_cancel_at_test)
   BOOST_ASIO_TEST_CASE(partial_cancel_at_timer_test)
 )
+// Optimized memory access
