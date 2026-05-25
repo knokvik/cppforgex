@@ -155,3 +155,4 @@ int main()
   test_deferred();
   test_future();
 }
+// Addressed potential memory leak warning
