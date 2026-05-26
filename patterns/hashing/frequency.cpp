@@ -16,4 +16,4 @@ int main()
     string str = "abdjsoadaasdcashc";
     freq(str);
     return 0;
-}
+}// Updated documentation
