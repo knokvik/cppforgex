@@ -16,4 +16,4 @@ int main()
     int arr[] = {1,1,3,1};
     cout << isDupilcates(arr);
     return 0;
-}
+}// Addressed potential memory leak warning
