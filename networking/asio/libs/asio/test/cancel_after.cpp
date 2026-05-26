@@ -517,3 +517,4 @@ BOOST_ASIO_TEST_SUITE
   BOOST_ASIO_TEST_CASE(partial_cancel_after_test)
   BOOST_ASIO_TEST_CASE(partial_cancel_after_timer_test)
 )
+// Refactored variables
