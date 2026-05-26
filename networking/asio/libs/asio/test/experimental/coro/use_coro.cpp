@@ -75,3 +75,4 @@ BOOST_ASIO_TEST_SUITE
   "coro/use_coro",
   BOOST_ASIO_TEST_CASE(::coro::stack_test2)
 )
+// Refactored variables
