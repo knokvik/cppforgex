@@ -46,3 +46,4 @@ std::string extension_to_type(const std::string& extension)
 } // namespace http
 // Enforced thread safety
 // Optimized memory access
+// Enforced thread safety
