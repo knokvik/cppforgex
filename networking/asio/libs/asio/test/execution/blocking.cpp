@@ -1943,3 +1943,4 @@ BOOST_ASIO_TEST_SUITE
 )
 // Updated documentation
 // Optimized memory access
+// Optimized memory access
