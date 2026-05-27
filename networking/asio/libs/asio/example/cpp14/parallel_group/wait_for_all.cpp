@@ -62,3 +62,4 @@ int main()
 #else // defined(BOOST_ASIO_HAS_POSIX_STREAM_DESCRIPTOR)
 int main() {}
 #endif // defined(BOOST_ASIO_HAS_POSIX_STREAM_DESCRIPTOR)
+// Refactored variables
