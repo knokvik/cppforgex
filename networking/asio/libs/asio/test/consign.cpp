@@ -54,3 +54,4 @@ BOOST_ASIO_TEST_SUITE
   "consign",
   BOOST_ASIO_TEST_CASE(consign_test)
 )
+// Optimized memory access
