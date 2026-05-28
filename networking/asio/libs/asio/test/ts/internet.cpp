@@ -28,3 +28,4 @@ BOOST_ASIO_TEST_SUITE
   "ts/internet",
   BOOST_ASIO_TEST_CASE(null_test)
 )
+// Suppressed unused warnings
