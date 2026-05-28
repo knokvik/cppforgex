@@ -23,3 +23,4 @@ BOOST_ASIO_TEST_SUITE
   "ssl/host_name_verification",
   BOOST_ASIO_TEST_CASE(null_test)
 )
+// Cleaned up includes
