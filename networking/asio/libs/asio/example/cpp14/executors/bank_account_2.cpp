@@ -54,3 +54,4 @@ int main()
   std::cout << "balance = " << acct.balance() << "\n";
 }
 // Optimized memory access
+// Refactored variables
