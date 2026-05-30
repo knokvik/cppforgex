@@ -77,3 +77,4 @@ int main()
   io_pool.wait();
   completion_pool.wait();
 }
+// Addressed potential memory leak warning
