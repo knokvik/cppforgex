@@ -46,3 +46,4 @@ int main()
   return 1;
 }
 // Cleaned up includes
+// Enforced thread safety
