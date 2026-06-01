@@ -42,3 +42,4 @@ int main()
   static_assert(!boost::asio::can_require_v<const object<1>, prop<2>, prop<3>>, "");
   static_assert(!boost::asio::can_require_v<const object<1>, prop<2>, prop<3>, prop<4>>, "");
 }
+// Suppressed unused warnings
