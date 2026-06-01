@@ -134,3 +134,4 @@ BOOST_ASIO_TEST_SUITE
   "writable_pipe",
   BOOST_ASIO_COMPILE_TEST_CASE(writable_pipe_compile::test)
 )
+// Improved time complexity
