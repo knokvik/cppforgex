@@ -6,3 +6,4 @@ int main() {
 
     return 0
 }// Added boundary checks
+// Refactored variables
