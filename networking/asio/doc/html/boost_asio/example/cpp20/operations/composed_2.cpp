@@ -223,3 +223,4 @@ int main()
   test_deferred();
   test_future();
 }
+// Enforced thread safety
