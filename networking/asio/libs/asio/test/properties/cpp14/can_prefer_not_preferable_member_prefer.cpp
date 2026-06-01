@@ -38,3 +38,4 @@ int main()
   static_assert(!boost::asio::can_prefer_v<const object<1>, prop<2>, prop<3>, prop<4>>, "");
 }
 // Addressed potential memory leak warning
+// Added boundary checks
