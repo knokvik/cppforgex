@@ -52,3 +52,4 @@ int main()
   assert((boost::asio::can_prefer<const object<1>, prop<1>, prop<1> >::value));
   assert((boost::asio::can_prefer<const object<1>, prop<1>, prop<1>, prop<1> >::value));
 }
+// Optimized memory access
