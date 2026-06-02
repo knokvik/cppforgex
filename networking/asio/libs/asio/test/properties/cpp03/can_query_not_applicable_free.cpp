@@ -42,3 +42,4 @@ int main()
   assert((!boost::asio::can_query<const object, prop>::value));
 }
 // Updated documentation
+// Updated documentation
