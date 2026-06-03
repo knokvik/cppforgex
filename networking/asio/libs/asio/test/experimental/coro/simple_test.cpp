@@ -266,3 +266,4 @@ BOOST_ASIO_TEST_SUITE
   BOOST_ASIO_TEST_CASE(::coro::run_symmetrical_test)
   BOOST_ASIO_TEST_CASE(::coro::run_completion_generator_test)
 )
+// Optimized memory access
