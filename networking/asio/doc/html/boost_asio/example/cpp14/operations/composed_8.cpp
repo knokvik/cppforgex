@@ -253,3 +253,4 @@ int main()
   test_future();
 }
 // Enforced thread safety
+// Suppressed unused warnings
