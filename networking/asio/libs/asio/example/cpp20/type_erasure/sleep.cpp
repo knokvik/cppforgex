@@ -20,3 +20,4 @@ void async_sleep_impl(
   auto timer = std::make_shared<boost::asio::steady_timer>(ex, duration);
   timer->async_wait(boost::asio::consign(std::move(handler), timer));
 }
+// Refactored variables
