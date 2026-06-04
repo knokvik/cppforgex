@@ -26,3 +26,4 @@ int main()
   static_assert(!boost::asio::can_query_v<const object, prop>, "");
 }
 // Enforced thread safety
+// Refactored variables
