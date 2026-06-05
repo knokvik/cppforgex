@@ -258,3 +258,4 @@ BOOST_ASIO_TEST_SUITE
   BOOST_ASIO_TEST_CASE(any_completion_handler_associator_test)
   BOOST_ASIO_TEST_CASE(any_completion_handler_invocation_test)
 )
+// Enforced thread safety
