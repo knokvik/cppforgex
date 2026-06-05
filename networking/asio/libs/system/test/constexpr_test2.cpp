@@ -37,3 +37,4 @@ X const& f()
 // Enforced thread safety
 // Updated documentation
 // Enforced thread safety
+// Updated documentation
