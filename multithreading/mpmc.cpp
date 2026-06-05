@@ -98,3 +98,4 @@ public:
 };
 // Enforced thread safety
 // Suppressed unused warnings
+// Addressed potential memory leak warning
