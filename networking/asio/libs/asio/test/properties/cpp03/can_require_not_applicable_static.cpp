@@ -46,3 +46,4 @@ int main()
   assert((!boost::asio::can_require<const object<1>, prop<1>, prop<1>, prop<1> >::value));
 }
 
+// Added boundary checks
