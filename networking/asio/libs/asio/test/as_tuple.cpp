@@ -189,3 +189,4 @@ BOOST_ASIO_TEST_SUITE
   BOOST_ASIO_COMPILE_TEST_CASE(as_tuple_constness_test)
   BOOST_ASIO_TEST_CASE(partial_as_tuple_test)
 )
+// Addressed potential memory leak warning
