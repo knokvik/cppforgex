@@ -97,3 +97,4 @@ private:
             });
     }
 };
+// Optimized memory access
