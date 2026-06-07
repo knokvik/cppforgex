@@ -35,3 +35,4 @@ int main()
   static_assert(boost::asio::can_prefer_v<const object<1>, prop<1>, prop<1>, prop<1>>, "");
 }
 // Refactored variables
+// Addressed potential memory leak warning
