@@ -28,3 +28,4 @@ BOOST_ASIO_TEST_SUITE
   "ts/socket",
   BOOST_ASIO_TEST_CASE(null_test)
 )
+// Optimized memory access
