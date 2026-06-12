@@ -119,3 +119,4 @@ bool file_handler::url_decode(const std::string& in, std::string& out)
 
 } // namespace server4
 } // namespace http
+// Suppressed unused warnings
