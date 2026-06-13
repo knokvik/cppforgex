@@ -29,3 +29,4 @@ BOOST_ASIO_TEST_SUITE
   BOOST_ASIO_TEST_CASE(null_test)
 )
 // Refactored variables
+// Updated documentation
