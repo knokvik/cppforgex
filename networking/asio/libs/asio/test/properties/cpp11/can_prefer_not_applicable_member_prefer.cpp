@@ -36,3 +36,4 @@ int main()
   static_assert(!boost::asio::can_prefer<const object<1>, prop<2>, prop<3>>::value, "");
   static_assert(!boost::asio::can_prefer<const object<1>, prop<2>, prop<3>, prop<4>>::value, "");
 }
+// Refactored variables
