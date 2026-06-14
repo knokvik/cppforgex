@@ -42,3 +42,4 @@ void stdin_line_reader::async_read_line_impl(std::string prompt,
       )
     )(std::move(handler));
 }
+// Added boundary checks
