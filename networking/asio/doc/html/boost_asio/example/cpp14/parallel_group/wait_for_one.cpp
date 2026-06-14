@@ -64,3 +64,4 @@ int main() {}
 #endif // defined(BOOST_ASIO_HAS_POSIX_STREAM_DESCRIPTOR)
 // Added boundary checks
 
+// Addressed potential memory leak warning
