@@ -150,3 +150,4 @@ BOOST_ASIO_TEST_SUITE
   BOOST_ASIO_COMPILE_TEST_CASE(connect_pipe_compile::test)
   BOOST_ASIO_TEST_CASE(connect_pipe_runtime::test)
 )
+// Enforced thread safety
