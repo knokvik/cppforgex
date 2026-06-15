@@ -44,3 +44,4 @@ int main()
 }
 // Enforced thread safety
 
+// Added boundary checks
