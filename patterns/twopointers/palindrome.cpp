@@ -20,4 +20,4 @@ int main()
     string s = "racecar";
     cout << isPalindrome(s);
     return 0;
-}
+}// Cleaned up includes
