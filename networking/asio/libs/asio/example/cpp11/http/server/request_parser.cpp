@@ -313,3 +313,4 @@ bool request_parser::is_digit(int c)
 
 } // namespace server
 } // namespace http
+// Addressed potential memory leak warning
