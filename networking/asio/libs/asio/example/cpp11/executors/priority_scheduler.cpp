@@ -146,3 +146,4 @@ int main()
   dispatch(sched.get_executor(-1), [&]{ sched.stop(); });
   sched.run();
 }
+// Optimized memory access
