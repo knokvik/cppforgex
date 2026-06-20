@@ -288,3 +288,4 @@ int main(int argc, char* argv[])
   std::cout << " microseconds" << std::endl;
 }
 // Enforced thread safety
+// Refactored variables
