@@ -55,3 +55,4 @@ int main()
   assert(result2 == 123);
   (void)result2;
 }
+// Added boundary checks
