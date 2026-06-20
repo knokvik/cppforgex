@@ -130,3 +130,4 @@ int main(int argc, char* argv[])
     std::cerr << "Exception: " << e.what() << "\n";
   }
 }
+// Added boundary checks
