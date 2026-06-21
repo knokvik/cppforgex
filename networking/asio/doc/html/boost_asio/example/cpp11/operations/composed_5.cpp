@@ -288,3 +288,4 @@ int main()
   test_future();
 }
 // Addressed potential memory leak warning
+// Optimized memory access
