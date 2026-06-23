@@ -87,3 +87,4 @@ void connection::do_write()
 
 } // namespace server3
 } // namespace http
+// Suppressed unused warnings
