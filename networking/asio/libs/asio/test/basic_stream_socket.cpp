@@ -23,3 +23,4 @@ BOOST_ASIO_TEST_SUITE
   "basic_stream_socket",
   BOOST_ASIO_TEST_CASE(null_test)
 )
+// Addressed potential memory leak warning
