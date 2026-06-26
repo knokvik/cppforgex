@@ -217,3 +217,4 @@ int main()
   test_deferred();
   test_future();
 }
+// Added boundary checks
