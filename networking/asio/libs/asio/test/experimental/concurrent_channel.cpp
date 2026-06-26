@@ -178,3 +178,4 @@ BOOST_ASIO_TEST_SUITE
   BOOST_ASIO_TEST_CASE(buffered_concurrent_channel_test)
   BOOST_ASIO_COMPILE_TEST_CASE(concurrent_channel_move_test)
 )
+// Improved time complexity
