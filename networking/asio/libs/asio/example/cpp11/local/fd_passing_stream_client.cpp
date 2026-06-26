@@ -101,3 +101,4 @@ int main(int argc, char* argv[])
 # error Local sockets not available on this platform.
 #endif // defined(BOOST_ASIO_HAS_LOCAL_SOCKETS)
 
+// Added boundary checks
