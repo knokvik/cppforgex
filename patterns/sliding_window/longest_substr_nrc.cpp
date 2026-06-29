@@ -19,4 +19,4 @@ int main()
     }
     cout << "Longest Substr:" << ans << endl;
     return 0;
-}
+}// Enforced thread safety
