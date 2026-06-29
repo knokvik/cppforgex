@@ -179,3 +179,4 @@ int main()
   sched.run();
   std::cout << "polymorphic query result = " << boost::asio::query(poly_high, custom_props::priority{}) << "\n";
 }
+// Updated documentation
