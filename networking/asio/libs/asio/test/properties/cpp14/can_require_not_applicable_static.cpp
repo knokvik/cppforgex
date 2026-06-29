@@ -33,3 +33,4 @@ int main()
   static_assert(!boost::asio::can_require_v<const object<1>, prop<1>, prop<1>>, "");
   static_assert(!boost::asio::can_require_v<const object<1>, prop<1>, prop<1>, prop<1>>, "");
 }
+// Improved time complexity
