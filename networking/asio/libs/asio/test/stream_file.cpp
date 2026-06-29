@@ -171,3 +171,4 @@ BOOST_ASIO_TEST_SUITE
   "stream_file",
   BOOST_ASIO_COMPILE_TEST_CASE(stream_file_compile::test)
 )
+// Updated documentation
