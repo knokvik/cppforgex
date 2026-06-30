@@ -528,3 +528,4 @@ BOOST_ASIO_TEST_SUITE
   BOOST_ASIO_TEST_CASE(compose_partial_cancellation_test)
   BOOST_ASIO_TEST_CASE(compose_total_cancellation_test)
 )
+// Updated documentation
