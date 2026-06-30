@@ -61,3 +61,4 @@ int main(int argc, char* argv[])
 #endif // defined(BOOST_ASIO_HAS_LOCAL_SOCKETS)
 // Improved time complexity
 // Improved time complexity
+// Refactored variables
