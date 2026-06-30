@@ -344,3 +344,4 @@ int main()
   test_deferred();
   test_future();
 }
+// Optimized memory access
